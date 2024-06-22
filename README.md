@@ -7,7 +7,7 @@ Analysis of selected questions of the World Values Survey.
 - New business registrations per 1,000 inhabitants<sup>[3]</sup>
 
 ## Important Aspects
-Data is from different years: the interviews of the World Values Survey have been conducted
+Data is from different years: the interviews of the World Values Survey have been conducted in various years.
 
 ## Sources of additional data used
 1) [World Bank (2023) – with minor processing by Our World in Data. “GDP per capita – World Bank – In constant 2017 international $” [dataset]. World Bank, “World Bank World Development Indicators” [original data]. Retrieved June 18, 2024 from https://ourworldindata.org/grapher/gdp-per-capita-worldbank][1]
